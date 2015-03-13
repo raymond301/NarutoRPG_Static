@@ -1,0 +1,19 @@
+html{
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+body{
+    height: 100%;
+    background-color: #6495ed;
+    background-repeat: no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+#ckakra_pool_butons{
+    width: 100%;
+    position: absolute;
+    bottom: 10pt;
+}
