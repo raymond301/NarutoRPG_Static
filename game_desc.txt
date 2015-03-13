@@ -1,0 +1,166 @@
+Hero Catagories - Need to pick @ beginning to determine which skill your start with
+Strong - physical/tough taijutsu only
+Quick - speedy/evasive
+Smart - intelligent, medical
+Charismatic - gengustu users
+
+Clans? When reach reputation lvl 10 - pick which clan your are from?
+Choices have pre-req limits?
+
+Ryo = Money HTML Symbol(&#165;)
+
+Levels: exponential growth?
+lvl 1 = 0 exp   Equip under 400 ryo
+lvl 2 = 100 exp  Equip under 1000 ryo
+lvl 3 = 250 exp
+lvl 4 = 600 exp
+lvl 5 = 1400 exp
+lvl 6 = 2200 exp
+
+
+Start:
+Academy Student: Fresh out of the Academy, you are ready to make your way into history as a Genin.
+
+
+Chakra Pool to collect, used to "buy" skill uses:
+Taijustu  +1 per click @ first. (+2,+4,+6,+10,.... clicks as advance in classes)
+Ninjustu
+Genjutsu
+
+
+
+Purpose to complete missions.
+Need to use Skills to complete missions.
+Earn Money & Reputations
+
+Missions:
+http://naruto.wikia.com/wiki/Missions
+  Have 2nd page, list of missions
+  - every mission has an "Abort" button
+  - oldest at bottom, completely most recent successfully will unlock next.
+  - can replay for money & reputation
+
+  Complete the mission by meeting the attibute needs.
+  STR-strength skill,
+  SPD-speed skill,
+  WIS-healing or intelligence skill
+  CHA-charasimatic skill
+
+ D-Class 01
+   Name 001 = "Rescue Cat", Exp:1, Ryo:1
+   Success => STR=3 || SPD=3 || WIS=3 || CHA=3
+   Name 002 = "Carry Message to Ally", Exp:3, Ryo:1     Unlock=Finish 001
+   Success => STR=10 || SPD=10 || WIS=20 || CHA=20
+   Name 003 = "Hide From Sensai", Exp:1, Ryo:3          Unlock=Finish 001
+   Success => STR=20 || SPD=20 || WIS=10 || CHA=10
+
+
+SKILLS:
+  "Climb" STR+1, ChakraCost:Tai(-2) =>Gain from Choosing Strong Hero lvl 0
+  "Run" SPD+1, Cost:Tai(-2)  =>Gain from Speed Hero lvl0
+  "Listen" WIS+1, Cost:Gen(-2) =>Gain from Smart Hero lvl0
+  "Calm" CHA+1, Cost:Gen(-2) =>Gain from Charsm Hero lvl0
+
+  "Throw Shuriken" STR+1,SPD+1,WIS+1,CHA+1, Cost:Tai(-4),Nin(-2) => Gain @ lvl1
+
+Equipment:
+ uses: auto gain Chakra?, modify attibute of skills, unlock new missions, unlock new skills
+ Unlocks ability to buy, by level
+
+ "Taijutsu Headband" Cost:600 Ryo, +1 Tai / 10 sec
+ "Genjutsu Headband" Cost:600 Ryo, +1 Gen / 10 sec
+ "Ninjutsu Headband" Cost:600 Ryo, +1 Nin / 10 sec
+
+
+
+GUI : Home page
+
+Lvl: XX           Exp: XXXXX       Ryo: XXXXX
+Nin:  XXXXXX       Gen: XXXXX       Tai: XXXX
+|   Buy Equip  |             {  | Choose Skill | **maybe later?}
+
+
+                     {Imgs}
+
+
+
+                | Start Mission |
+
+|      Nin       |      Gen     |     Tai     |
+
+
+
+Mission PAGE:
+    Repeat unlocked missions oldest at bottom
+
+
+Inter-mission page:
+
+[-------- Progress Bar                         ]
+[Abort]
+
+                   {IMG?}
+
+          |        Skill 1          |
+          |        Skill 2          |
+          |        Skill 3          |
+          |        Skill 4          |
+
+Buy Equip Page:
+                                     [Ryo owned]
+
+          |    Name:Cost:Benifit {lock button if already owned}   |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Verbs to use in writing SMART goals:
+•	Activate, address, adjust, analyze, apply, arrange, assemble, assess, assist, associate
+•	Balance, breakdown, build
+•	Calculate, categorize, center, change, charge, check, choose, cite, classify, clean, close, combine, compare, complete, compute, conduct, connect, construct, contrast, convert, copy, count, create, critique
+•	Define, describe, design, detect, determine, develop, diagram, differentiate, disassemble, discharge disconnect, display, distinguish
+•	Enumerate, estimate, evaluate, examine, execute, explain
+•	File, fill, form, formulate
+•	Grasp, group
+•	Identify, illustrate, indicate, inspect, install, interpret
+•	Label, lift, list, listen, locate, make manage, manipulate, measure, modify
+•	Name
+•	Order, organize, outline
+•	Perform, plan, predict, prepare, prescribe, produce, proof, purchase
+•	Quote
+•	Recall, recite, record, reiterate, repeat, reply, reproduce, respond, restate
+•	Select, serve, solve, specify
+•	Tabulate, tell, test, trace, transform, transcribe, troubleshoot, use
+•	Validate, verify
+•	Write
+
+Best Answer:  punch, hit, whack, slap, tap, knock, thump, kick, boot, thrust, parry, stagger, trip, sweep, bleed,
+recoil, fall, crash, nut, head-butt, knee, elbow... the choices are endless.
+
+*EDIT*
+abrogate
+affirm
+aggravate
+analyse
+adhere
+advance
+apply,argue,assess,attract,avert,breach,burden,buttress,categorise,challenge,compare,complicate,comprise,compute,
+conceptualise,constitute,construct,contradict,contrast,control,convey,create,deepen,define,delineate,demean,demolish,
+demonstrate,deny,depend on,develop,differentiate,diminish,disabuse,disappear,disavow,dismiss,distinguish,distort,
+diverge from,dominate,entail,envision,evaluate,exacerbate,examine,exemplify,expand,explode,explore,expound,extrapolate,
+focus,forge,fuse,garner,generate,highlight,ignore,illuminate,illustrate,impair,impose,implicate,initiate,instigate,
+intervene,investigate,involve,isolate,justify,juxtapose,launch,legitimate,loom,manifest,maximise,measure,minimise,
+mitigate,negate,neglect,nullify,obscure,obviate,organise,outline,perpetuate,portray,preclude,prevail,promote,propagate,
+propose,prove,react,reap,rebut,recur,refine,reconfigure,recreate,resist,resonate,respond,result,rupture,sanction,show,
+signal,signify,solidify,solve,strengthen,support,sustain,threaten,transform,translate,typify,underpin,vitiate,weaken

@@ -17,3 +17,9 @@ body{
     position: absolute;
     bottom: 10pt;
 }
+.mission_btn {
+    margin-left: 10%;
+    width: 80%;
+    position: absolute;
+    bottom: 13%;
+}

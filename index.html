@@ -13,22 +13,30 @@
 <body ng-controller="MainController" style="background-image:url('{{my_background}}')">
 
 
+<!--<div class="container">-->
 
-<div>
-    <div id="ckakra_pool_butons" class="row">
-        <div class="col-xs-4 text-center">
-            <button type="button" class="btn btn-lg btn-primary">Ninjutsu</button>
-        </div>
-        <div class="col-xs-4 text-center">
-            <button type="button" class="btn btn-lg btn-danger">Genjutsu</button>
-        </div>
-        <div class="col-xs-4 text-center">
-            <button type="button" class="btn btn-lg btn-success">Taijutsu</button>
-        </div>
+<nav>
+    <div class="row">
+    <ul class="list-justified">
+        <li style="color:#2A5E8B"><strong>Lvl: {{ myAttr.me.level }}</strong></li>
+        <li style="color:#8F2C28"><strong>Exp: {{ myAttr.me.experience }}</strong></li>
+        <li style="color:#327032"><strong>Ryo: {{ myAttr.me.ryo }}</strong></li>
+    </ul>
+        <ul class="list-justified">
+            <li style="color:#357ebd"><strong>Nin: {{ myAttr.me.nin }}</strong></li>
+            <li style="color:#d43f3a"><strong>Gen: {{ myAttr.me.gen }}</strong></li>
+            <li style="color:#4cae4c"><strong>Tai: {{ myAttr.me.tai }}</strong></li>
+        </ul>
     </div>
+</nav>
+
+
+<div ng-view></div>
+
 
 
     <script src="lib/angular.min.js"></script>
+    <script src="lib/angular-route.js"></script>
     <script src="lib/angular-resource.js"></script>
     <script src="lib/ui-bootstrap-tpls-0.11.0.min.js"></script>
     <script src="lib/jquery.min.js"></script>
