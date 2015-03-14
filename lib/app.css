@@ -23,3 +23,18 @@ body{
     position: absolute;
     bottom: 13%;
 }
+.hero_quad{
+    color:white;
+    height: 45%;
+    padding-bottom: 8px;
+    text-align: center;
+    /* opacity: 0.5; */
+}
+.hero_quad:hover{
+    color: #080808;
+    opacity: 1;
+}
+.hero_quad legend{
+    font-size: 1.3em;
+    color:white;
+}

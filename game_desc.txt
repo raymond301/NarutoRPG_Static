@@ -91,6 +91,7 @@ Nin:  XXXXXX       Gen: XXXXX       Tai: XXXX
 
 
 Mission PAGE:
+#skills available
     Repeat unlocked missions oldest at bottom
 
 
