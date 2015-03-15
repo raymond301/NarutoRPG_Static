@@ -46,13 +46,13 @@ http://naruto.wikia.com/wiki/Missions
   WIS-healing or intelligence skill
   CHA-charasimatic skill
 
- D-Class 01
+ D-Class 01                            <no or's, just and's make it easier for progress bar>
    Name 001 = "Rescue Cat", Exp:1, Ryo:1
-   Success => STR=3 || SPD=3 || WIS=3 || CHA=3
-   Name 002 = "Carry Message to Ally", Exp:3, Ryo:1     Unlock=Finish 001
-   Success => STR=10 || SPD=10 || WIS=20 || CHA=20
-   Name 003 = "Hide From Sensai", Exp:1, Ryo:3          Unlock=Finish 001
-   Success => STR=20 || SPD=20 || WIS=10 || CHA=10
+   Success => STR=3
+   Name 002 = "Carry Message to Ally", Exp:3, Ryo:1
+   Success =>  SPD=10
+   Name 003 = "Hide From Sensai", Exp:1, Ryo:3
+   Success =>  WIS=10 && CHA=10
 
 
 SKILLS:
