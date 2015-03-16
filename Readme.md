@@ -4,8 +4,6 @@
 Designing for PhoneGap - Mobile App builder.
 Static HTML file & js libs (includes Bootstrap & Angular v1.0)
 
-
-TODO:
-http://phonegap.com/blog/2013/01/18/my-first-mobile-game-in-html-with-phonegap-build/
-
-https://build.phonegap.com/
+** HOW TO GET STARTED: **
+1. Open index.html in Firefox (only browser, right now)
+2. Click Tools -> Web Developer -> Responsive Design View (mobile format)

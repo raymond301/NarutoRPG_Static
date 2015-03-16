@@ -3,12 +3,12 @@
     <h4>Missions</h4>
     <div class="container">
         <div class="list-group">
-            <a href="#" data-ng-repeat="mis in missionLoader.list() track by $index" ng-click="fight($index)" class="list-group-item">
-                <small class="list-group-item-text">
-                    Exp: +<span data-ng-bind="mis.exp"></span>&nbsp;Ryo: +<span data-ng-bind="ryo.exp"></span>
-                </small>
+            <button data-ng-repeat="mis in missionLoader.list() track by $index" ng-click="fight($index)" class="list-group-item" style="width:85%">
                 <h4 class="list-group-item-heading" data-ng-bind="mis.name"></h4>
-            </a>
+                <small class="list-group-item-text">
+                    Exp: +<span data-ng-bind="mis.exp"></span>&nbsp;Ryo: +<span data-ng-bind="mis.ryo"></span>
+                </small>
+            </button>
         </div>
     </div>
 </section>

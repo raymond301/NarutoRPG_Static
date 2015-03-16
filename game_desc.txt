@@ -1,3 +1,9 @@
+
+TODO:
+http://phonegap.com/blog/2013/01/18/my-first-mobile-game-in-html-with-phonegap-build/
+
+https://build.phonegap.com/
+
 Hero Catagories - Need to pick @ beginning to determine which skill your start with
 Strong - physical/tough taijutsu only
 Quick - speedy/evasive
